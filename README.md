@@ -16,3 +16,6 @@ click uninstall
 click install
 in the Arduino IDE select old bootloader
 https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
+
+Youtube demo:
+https://youtu.be/q3SjXiXsOl8
